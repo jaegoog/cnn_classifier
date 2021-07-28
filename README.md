@@ -1,1 +1,1 @@
-# CNN classifier
+# CNN text classifier!
