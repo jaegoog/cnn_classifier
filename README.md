@@ -1,1 +1,1 @@
-# word2vec
+# CNN text classifier!
